@@ -1,0 +1,7 @@
+[
+  "tests/test_pokemon.py::test_get_trainers",
+  "tests/тест бек/test_pokemon.py::test_get_trainers",
+  "tests/тест фронт/test_Shop.py::test_Shop1",
+  "tests/тест фронт/test_Shop.py::test_product",
+  "tests/тест фронт/test_Shop.py::test_product_view_sku"
+]

@@ -1,0 +1,4 @@
+{
+  "tests/тест фронт/test_Shop.py::test_product_view_sku": true,
+  "tests/тест фронт/test_Shop.py::test_product": true
+}
